@@ -7,3 +7,9 @@ build/
 coverage/
 .DS_Store
 *.log
+
+# Local AI coding tool files
+apps/api/.agents/
+apps/api/.claude/
+apps/api/.cursor/
+apps/api/.devin/
